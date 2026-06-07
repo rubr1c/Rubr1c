@@ -10,5 +10,3 @@ I'm currently working on certus
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-zaghloul-0591752aa) 
-
-alizaghloul64@gmail.com
